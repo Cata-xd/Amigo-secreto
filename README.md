@@ -29,8 +29,8 @@ Este proyecto es una aplicación web que permite a los usuarios agregar nombres 
 - `app.js`: Lógica de funcionamiento de la aplicación.
 
 ## Autor
-- [Tu Nombre](https://github.com/tuusuario)
+Catalina Oliva https://github.com/Cata-xd/
 
 ## Licencia
-Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo LICENSE.
+Sin licencia
 
