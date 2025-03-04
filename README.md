@@ -17,7 +17,7 @@ Este proyecto es una aplicación web que permite a los usuarios agregar nombres 
 ## Instalación y uso
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   git clone [https://github.com/tuusuario/amigo-secreto.git](https://github.com/Cata-xd/Amigo-secreto)
    ```
 2. Abre el archivo `index.html` en un navegador web.
 3. Ingresa los nombres de los amigos y presiona "Añadir".
